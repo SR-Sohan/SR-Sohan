@@ -40,4 +40,4 @@
 [jsplaylist]: https://md-mahbub-hasan.github.io/hard-rock-Assignment/
 [cssplaylist]: https://volunteer-network-a77e6.web.app/
 [reactplaylist]: https://creative-agency-32149.web.app/
-- [<img align="center"  width="25%" alt="MERN" src="https://www.eligocs.com/wp-content/uploads/2020/09/MREN-stack-1.jpg" />][reactplaylist]
+
