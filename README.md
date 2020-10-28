@@ -32,12 +32,9 @@
 <img width="550px" alt="SR Sohan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=SR-Sohan&show_icons=true"/>
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mahbub-Hasan&card_width=550)](https://github.com/SR-Sohan)
 
-[programming]: https://creative-agency-32149.web.app/
-[website]: https://volunteer-network-a77e6.web.app/
-[twitter]: https://travle-guru-mahbub.firebaseapp.com/
-[linkedin]: https://festive-tesla-f6ce0f.netlify.app/
-[webdevplaylist]: https://md-mahbub-hasan.github.io/hard-rock-Assignment/
-[jsplaylist]: https://md-mahbub-hasan.github.io/hard-rock-Assignment/
-[cssplaylist]: https://volunteer-network-a77e6.web.app/
-[reactplaylist]: https://creative-agency-32149.web.app/
+[programming]:https://creative-agency-24bfa.firebaseapp.com/
+[programming2]: https://volunteer-network-2d254.firebaseapp.com/
+[programming3]: https://assignment-9-290219.web.app/
+[cssplaylist]: https://jolly-wright-456d90.netlify.app/
+[reactplaylist]: https://lucid-lalande-d5f287.netlify.app/
 
