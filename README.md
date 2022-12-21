@@ -1,6 +1,7 @@
 ### Hi there 👋
 reg: /^\S+@\S+\dot\S+$/
-reg2: /^\S+@\S+\.\S+$/
+<br>
+reg2: `/^\S+@\S+\.\S+$/`
 
 ## I'm SR Sohan 👋 
 - 🌱 I’m currently learning ... everything 🤣
