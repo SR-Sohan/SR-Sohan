@@ -1,5 +1,5 @@
 ### Hi there 👋
-reg: /^\S+@\S+\.\S+$/
+reg: /^\S+@\S+\dot\S+$/
 
 ## I'm SR Sohan 👋 
 - 🌱 I’m currently learning ... everything 🤣
