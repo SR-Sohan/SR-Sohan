@@ -1,6 +1,6 @@
 ### Hi there 👋
 reg: /^\S+@\S+\.\S+$/
-## I'm SR Sohan 👋
+## I'm SR Sohan 👋 
 - 🌱 I’m currently learning ... everything 🤣
 - ❤️ Technology Is My Love 😍
 - 😎 Programming Is My Passion 🙃
