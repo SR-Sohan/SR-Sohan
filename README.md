@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 reg: `/^\S+@\S+\.\S+$/`
+$allowed = ['application/pdf','application/msword','image/webp','image/gif','image/jpg','image/jpeg','image/png'];
 
 ## I'm SR Sohan 👋 
 - 🌱 I’m currently learning ... everything 🤣
