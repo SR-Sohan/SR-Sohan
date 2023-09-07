@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-reg: `/^\S+@\S+\.\S+$/`
-$allowed = ['application/pdf','application/msword','image/webp','image/gif','image/jpg','image/jpeg','image/png'];
 
-## I'm SR Sohan 👋 
+## I'm Md Sohanur Rahman 👋 
 - 🌱 I’m currently learning ... everything 🤣
 - ❤️ Technology Is My Love 😍
 - 😎 Programming Is My Passion 🙃
